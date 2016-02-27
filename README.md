@@ -23,4 +23,4 @@ $ ./sendMail.py "Hey! How is it going?"
 
 ### Disclaimer
 
-This is not really useful to use for sending emails, but can rather be used in little scripts that e-mail you when something is going horribly wrong.
+This is not really useful for sending emails, but can rather be used in little scripts that e-mail you when something is going horribly wrong.
