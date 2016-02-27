@@ -7,6 +7,10 @@ Clone this repository
 $ git clone https://github.com/manuelgu/sendMail
 ```
 
+Setup SMTP credentials
+  - Edit `sender`, `key` and `receivers` to insert your own data
+  - You might have to enable SMTP in your e-mail settings
+
 You need to give the file `+x` so it can be executed
 ```sh
 $ chmod +x sendMail.py
