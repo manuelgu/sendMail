@@ -4,7 +4,7 @@
 
 Clone this repository
 ```sh
-$ git clone https://github.com/manuelgu/sendMail
+$ git clone https://github.com/manuelgu/sendMail.git
 ```
 
 Setup SMTP credentials
