@@ -10,7 +10,7 @@ if len(sys.argv) > 1:
 else:
    sys.exit('Usage: ./sendMail.py "Your Text"')
 
-# Global variables
+# Configurable
 sender = 'sender@email.com'
 key = 'password'
 receivers = ['your@receiver.com']
